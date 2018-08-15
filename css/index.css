@@ -3,6 +3,9 @@ div {
     padding: 0;
     width: 100px;
     height: 100px;
+    background-color: skyblue;
 }
 p {
-width:100px;}
+    width:100px;
+    margin-left: 50px;
+}
